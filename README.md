@@ -137,11 +137,6 @@ The 50 negative test cases cover all **24 Singlish input types**:
 | 23 | Online Identifiers in Singlish |
 | 24 | Inputs Containing Emojis |
 
-> All 50 test cases are **negative** — TC IDs follow the format `Neg_XXXX`.
-> Each input type has **at least 2 test cases** as required.
-
-
 =======
-
 
 *BSc (Hons) in Information Technology — SLIIT | Year 3 | Semester 1*
