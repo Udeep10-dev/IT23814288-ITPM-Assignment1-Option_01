@@ -142,14 +142,4 @@ The 50 negative test cases cover all **24 Singlish input types**:
 
 ---
 
-## 📝 Notes
-
-- The **Standard Sinhala** transliteration function, backend APIs, and performance/scalability/security testing are **out of scope**.
-- The Excel file will be checked for plagiarism — similarity score must remain **below 10%**.
-- Ensure the Git repository is **publicly accessible** before submission.
-
----
-
-
-
 *BSc (Hons) in Information Technology — SLIIT | Year 3 | Semester 1*
